@@ -21,11 +21,18 @@ modId = "forge"
 mandatory = true
 versionRange = "[37,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
 
 [[dependencies.enhanced_searchability]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.18,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
+
+[[dependencies.enhanced_searchability]]
+modId = "cloth_config"
+mandatory = true
+versionRange = "[6.0,)"
+ordering = "NONE"
+side = "CLIENT"
