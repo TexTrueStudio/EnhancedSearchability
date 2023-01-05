@@ -1,7 +1,5 @@
 # Enhanced Searchability Forge
 
-
-
 ## Setup
 
 - Drop the mod in the mods folder
