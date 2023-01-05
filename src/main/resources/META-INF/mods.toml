@@ -10,8 +10,8 @@ displayName = "Enhanced Searchability"
 # updateJSONURL="https://changeme.dev/updates.json" #optional
 displayURL="https://github.com/TexTrueStudio/EnhancedSearchability-Forge" #optional
 logoFile="icon.png" #optional
-credits="Thanks to Mojang for making this great game" #optional
-authors="Me!" #optional
+credits="MrMelon54" #optional
+authors="TexTrue, TexTrueStudio, BocchiKessokuTeam" #optional
 description = '''
 Adds useful search boxes into the UI
 '''
