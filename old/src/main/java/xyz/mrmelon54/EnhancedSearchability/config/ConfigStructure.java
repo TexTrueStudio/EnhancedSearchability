@@ -9,5 +9,4 @@ import me.shedaniel.autoconfig.annotation.Config;
 public class ConfigStructure implements ConfigData {
     public boolean resourcePacksEnabled = true;
     public boolean serversEnabled = true;
-    public boolean statsEnabled = true;
 }

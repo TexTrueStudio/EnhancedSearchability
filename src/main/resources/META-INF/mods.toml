@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[37,)"
+license = "MIT"
+issueTrackerURL="https://github.com/TexTrueStudio/EnhancedSearchability-Forge/issues" #optional
+
+[[mods]]
+modId = "enhanced_searchability"
+version = "${version}"
+displayName = "Enhanced Searchability"
+# updateJSONURL="https://changeme.dev/updates.json" #optional
+displayURL="https://github.com/TexTrueStudio/EnhancedSearchability-Forge" #optional
+logoFile="icon.png" #optional
+credits="MrMelon54" #optional
+authors="TexTrue, TexTrueStudio, BocchiKessokuTeam" #optional
+description = '''
+Adds useful search boxes into the UI
+'''
+
+[[dependencies.enhanced_searchability]]
+modId = "forge"
+mandatory = true
+versionRange = "[37,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.enhanced_searchability]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18,)"
+ordering = "NONE"
+side = "BOTH"
